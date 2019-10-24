@@ -1,0 +1,32 @@
+.heading {
+    background-color:brown;
+    color: white;
+    font-weight: bold;
+    padding: 3px;
+}
+.formbody{
+    border-style: solid;
+    border-width: 3px;
+    border-color: brown;
+    padding: 5px;
+    background-color: antiquewhite;
+}
+.table {
+    border-style: solid;
+    border-width: 3px;
+    border-color: brown;
+    padding: 5px;
+    background-color: antiquewhite;
+}
+.jumbotron {
+    text-align: center;
+    background-color: brown;
+    color: white;
+}
+body {
+    background-image: url("herringbone.png");
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn {
+    background-color: brown;
+}
